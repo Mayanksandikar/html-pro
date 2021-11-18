@@ -1,0 +1,30 @@
+#font{
+    font-size: xx-large;
+}
+
+.font2{
+    font-size: large;
+    font-weight: bold;
+}
+.pre{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+}
+.span{
+    color: #0000ff;
+}
+.code{
+   
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #660000;
+        font-style: normal;
+    }
+.color{
+    color: #0000ff;
+}
+.color2{
+    color: #000000;
+}
+.rt{
+    margin: 0px;
+}
